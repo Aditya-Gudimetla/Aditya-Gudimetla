@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Aditya-Gudimetla)
+
+<img align="left" src="https://github-readme-stats-five-steel.vercel.app/api/top-langs/?username=Aditya-Gudimetla&theme=gotham" alt="sahilr05" />
+
+<img align="left" src="https://github-readme-stats-five-steel.vercel.app/api?username=Aditya-Gudimetla&show_icons=true&theme=gotham&hide=issues&count_private=true&" alt="Aditya-Gudimetla" />
 <!--
 **Aditya-Gudimetla/Aditya-Gudimetla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
